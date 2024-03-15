@@ -16,10 +16,15 @@ Content-Type: application/json
 }
 ```
 
+## Logout
+```http
+DELETE https://kilterboardapp.com/sessions/my_session_token
+```
+
 ## Sync
 ```http
 POST https://api.kilterboardapp.com/v1/sync
-Authorization: Bearer
+Authorization: Bearer my_session_token
 ```
 
 ```json
