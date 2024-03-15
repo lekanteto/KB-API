@@ -19,6 +19,7 @@ Content-Type: application/json
 ## Logout
 ```http
 DELETE https://kilterboardapp.com/sessions/my_session_token
+Authorization: Bearer my_session_token
 ```
 
 ## Sync
@@ -188,6 +189,7 @@ Authorization: Bearer my_session_token
 ## User data including circuits
 ```http
 GET https://api.kilterboardapp.com/v2/users/my_id
+Authorization: Bearer my_session_token
 ```
 
 
