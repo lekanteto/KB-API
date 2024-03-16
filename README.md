@@ -20,7 +20,7 @@ Content-Type: application/json
     "username": "my username"
 }
 ```
-The response contains a session token (my_session_token).
+The response contains a session token (my_session_token) and a user id (my_id) that is used in later API calls.
 
 ## Logout
 ```http
