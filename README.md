@@ -1,5 +1,10 @@
 # KB-API
 
+## Information sources
+- [https://www.bazun.me/blog/kiterboard/](https://www.bazun.me/blog/kiterboard/)
+- [https://tim.wants.coffee/posts/kilterboard-app/](https://tim.wants.coffee/posts/kilterboard-app/)
+- [BoardLib](https://github.com/lemeryfertitta/BoardLib)
+
 ## Login
 ```http
 POST https://kilterboardapp.com/sessions
