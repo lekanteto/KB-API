@@ -4,6 +4,7 @@
 - [https://www.bazun.me/blog/kiterboard/](https://www.bazun.me/blog/kiterboard/)
 - [https://tim.wants.coffee/posts/kilterboard-app/](https://tim.wants.coffee/posts/kilterboard-app/)
 - [BoardLib](https://github.com/lemeryfertitta/BoardLib)
+- [https://gitlab.com/terminallyill/waydroid-mitmproxy-guide](https://gitlab.com/terminallyill/waydroid-mitmproxy-guide)
 
 ## Login
 ```http
