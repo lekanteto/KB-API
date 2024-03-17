@@ -199,6 +199,10 @@ GET https://api.kilterboardapp.com/v2/users/my_id
 Authorization: Bearer my_session_token
 ```
 
+# Dimensions 12x12 w/ kb
+x 0 - 144
+y 0 - 156
+
 
 
 
